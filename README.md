@@ -10,7 +10,7 @@ I'm a **Mechanical Engineering graduate || student Software Engineer**. I have n
 - 🔭 Working on: **On myself. LOL**
 - 🌍 Languages: **I speak fluent English and Swahili, Intermediate Arabic and basic C**
 - 📫 How to reach me: **kimukuphilip10@gmail.com**
-- ⚡ Fun fact: **a fun fact about yourself**
+- ⚡ Fun fact: **I am afraid of geese!!**
 
 ## My Skills 🧠
 
