@@ -1,7 +1,5 @@
 # Hi there, I'm Philip! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a **Mechanical Engineering graduate || student Software Engineer**. I have novice programming skills in **HTML, CSS, Javascript and C**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
