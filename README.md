@@ -39,7 +39,6 @@ I'm a **Mechanical Engineering graduate || Junior Software Engineer**. I have in
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**[(yettobelaunched)]
 - **[LinkedIn]**[(https://www.linkedin.com/in/philip-kimuku/)]   
 - **[Twitter]**[(https://x.com/the1p_k)]
 
