@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a **Mechanical Engineering graduate || student Software Engineer**. I have novice programming skills in **HTML, CSS, Javascript and C**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a **Mechanical Engineering graduate || Junior Software Engineer**. I have intermediate programming skills in **Python and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Python with Django**
 - 🔭 Working on: **On myself. LOL**
@@ -12,13 +12,9 @@ I'm a **Mechanical Engineering graduate || student Software Engineer**. I have n
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
