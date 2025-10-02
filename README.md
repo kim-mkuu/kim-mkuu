@@ -2,13 +2,15 @@
 
 ## About Me 🚀
 
-I'm a **Mechanical Engineering graduate || Junior Software Engineer**. I have intermediate programming skills in **Python and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+ A **Mechanical Engineering graduate || Passionate Software Engineer**. I specialize in **Python and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Python with Django**
+- 🌱 Currently learning: **System Design**
 - 🔭 Working on: **On myself. LOL**
-- 🌍 Languages: **I speak fluent English and Swahili, Intermediate Arabic and basic C**
+- 🌍 Languages: **I speak fluent Python, English, Swahili, Intermediate Arabic and basic C**
 - 📫 How to reach me: **kimukuphilip10@gmail.com**
-- ⚡ Fun fact: **I am afraid of geese!!**
+
+##
+- ⚡ Fun fact: **Clean code is used more in tweets than in code**
 
 ## My Skills 🧠
 
@@ -21,21 +23,6 @@ I'm a **Mechanical Engineering graduate || Junior Software Engineer**. I have in
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
 
 
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[No Projects yet. A reminder that this space has to be filled with meaningful stuff.]**
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
