@@ -4,7 +4,7 @@
 
  A **Mechanical Engineering graduate || Passionate Software Engineer**. I specialize in **Python and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **System Design**
+- 🌱 Currently learning: **Golang & System Design**
 - 🔭 Working on: **On myself. LOL**
 - 🌍 Languages: **I speak fluent Python, English, Swahili, Intermediate Arabic and basic C**
 - 📫 How to reach me: **kimukuphilip10@gmail.com**
